@@ -21,3 +21,10 @@ http://galaxyemud.blogspot.pt/
 ![Jump](docs/alpha_jump.png?raw=true "Jump")
 
 
+### Telnet Negotiation
+
+Full telnet negotiation
+
+![Telnet](docs/ServerNegMessages.png?raw=true "Telnet")
+
+
