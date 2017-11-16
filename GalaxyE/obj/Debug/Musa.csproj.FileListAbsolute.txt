@@ -1,0 +1,4 @@
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\WebMUSA\Musa\bin\Debug\Musa.dll
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\WebMUSA\Musa\bin\Debug\Musa.pdb
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\WebMUSA\Musa\obj\Debug\Musa.dll
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\WebMUSA\Musa\obj\Debug\Musa.pdb

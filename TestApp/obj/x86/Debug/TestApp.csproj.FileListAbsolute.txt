@@ -1,0 +1,14 @@
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\TestApp\obj\x86\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\TestApp\bin\Debug\TestApp.exe
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\TestApp\bin\Debug\TestApp.pdb
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\TestApp\bin\Debug\GalaxyE.dll
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\TestApp\bin\Debug\GalaxyE.pdb
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\TestApp\obj\x86\Debug\TestApp.exe
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\TestApp\obj\x86\Debug\TestApp.pdb
+C:\Work\Old Computer 2013\Projects\TelnetServer\TestApp\bin\Debug\TestApp.exe
+C:\Work\Old Computer 2013\Projects\TelnetServer\TestApp\bin\Debug\TestApp.pdb
+C:\Work\Old Computer 2013\Projects\TelnetServer\TestApp\bin\Debug\GalaxyE.dll
+C:\Work\Old Computer 2013\Projects\TelnetServer\TestApp\bin\Debug\GalaxyE.pdb
+C:\Work\Old Computer 2013\Projects\TelnetServer\TestApp\obj\x86\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Work\Old Computer 2013\Projects\TelnetServer\TestApp\obj\x86\Debug\TestApp.exe
+C:\Work\Old Computer 2013\Projects\TelnetServer\TestApp\obj\x86\Debug\TestApp.pdb

@@ -1,0 +1,1 @@
+Here we can customize descriptions an informations for any object in game

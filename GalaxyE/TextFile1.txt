@@ -1,0 +1,72 @@
+﻿
+Info: player Start 
+System Rana, planet Rana D 
+Coords:  368.4V5:-1Q.-1J.-DM
+
+
+
+--- JUMP Chatter
+
+COMP: Hyperspace jump command received - Alioth Coordinates 332.234:ZS.DD:CC
+COMP: Calculating jump parameters...                [ OK ]
+      Distance 7.3443 Ly
+COMP: Deactivating conventional drive               [ OK ]
+COMP: Charging hyperdrive ......                    [ OK ]
+COMP: Entering Hyperspace in 5;4;3;2:1:H            [ OK ]
+[IN HYPERSPACE]                                     [ ETA 00:00:20:233 ]
+COMP: Reactivating manual control                   [ OK ]
+
+--- Getting back from hypersapce
+
+COMP: Leaving Hypersapce in 5 4 3 2 1               [ OK ]
+COMP: Ship auto test ....                           [ OK ]
+COMP: Reactivating conventional drive               [ OK ]
+COMP: Scanning region                               [ OK ]
+Current System Alioth Coordinates 332.234:ZS.DD:CC
+Distance to the nearest starport 12.567Au at 'Alioth d'
+
+--- Entering a StarPort
+
+COMP: Calculating aproch vector                     [ OK ]
+COMP: Requesting dock permission                    [ OK ]
+Alioth station: >> Dock permission granted please procede to gate 2 and dock as soon as you get green position light
+COMP: Starting dock procedure                       [ OK ]
+COMP: Ajusting speed .......... VRZ-1 OK            [ OK ]
+COMP: Got green position light! dock identified     [ OK ]
+COMP: Iniciating Landing procedure .................[ Landed ]
+COMP: Establish computer link with station compt.   [ OK ]
+
+Alioth station: >> Welcome to alioth station please enjoy you stay.
+
+To connect to the station bbs please use the command BBS.
+
+--- Leaving a starport
+
+COMP: Requestion lauch permission                   [ OK ]
+Alioth station: >> Lauch permission granted. You are clear to procede planet orbit at OrbFFD34 
+please use a slow X12-Z departure procedure until VRZ-1. 
+COMP: Calculating parameters for OrbFFD34           [ OK ]
+COMP: Sealling airlocks                             [ OK ]
+COMP: Lauching in 3 2 1                             [ Liftoff ]
+COMP: Rotation .. accelerating ....                 [ OK ]
+COMP: Aproching X12-Z.VRZ-1 and accelerating to OrbFFD34 ..........
+COMP: OrbFFD34 establish                            [ in Orbit ]
+COMP: Reactivating manual system control            [ OK ]
+in Alioth Orbit
+
+-- Start orbital procedure from conventional drive
+
+COMP: Starting orbital procedures                   [ OK ]
+COMP: Calculating orbital vectors                   [ OK ]
+Ajusting speed and aproch angle ..........          [ in Orbit ]
+COMP: Reactivating manual system control            [ OK ]
+in Alioth Orbit
+
+-- Fly to target
+COMP: Calculating target vectors                    [ OK ]
+COMP: Accelerating .....                            [ OK ]
+[IN SPACE]                                          [ ETA 00:00:02.2233]
+COMP: Reactivating manual system control            [ OK ]
+
+-- Reaching target
+COMP: Reaching target tying to match speed          [ OK ]

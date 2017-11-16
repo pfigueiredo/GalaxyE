@@ -1,0 +1,36 @@
+ Volume in drive C is WINDOWS
+ Volume Serial Number is F0A5-F8D9
+
+ Directory of C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\TelnetServer\Messages\Citys
+
+08-05-2013  19:56    <DIR>          .
+08-05-2013  19:56    <DIR>          ..
+29-04-2013  20:57               250 b1.png
+30-04-2013  14:13             2.306 b1.png.MII
+29-04-2013  21:02               236 b10.png
+30-04-2013  14:22             2.306 b10.png.MII
+29-04-2013  20:58               206 b2.png
+30-04-2013  14:13             2.306 b2.png.MII
+29-04-2013  20:58               256 b3.png
+30-04-2013  14:14             2.306 b3.png.MII
+29-04-2013  20:59               229 b4.png
+30-04-2013  14:15             2.306 b4.png.MII
+29-04-2013  20:59               228 b5.png
+30-04-2013  14:19             2.306 b5.png.MII
+29-04-2013  21:00               251 b6.png
+30-04-2013  14:20             2.302 b6.png.MII
+29-04-2013  21:00               219 b7.png
+30-04-2013  14:19             2.302 b7.png.MII
+29-04-2013  21:01               202 b8.png
+30-04-2013  14:18             2.302 b8.png.MII
+29-04-2013  21:02               251 b9.png
+30-04-2013  14:21             2.306 b9.png.MII
+08-05-2013  19:56                 0 dir.txt
+29-04-2013  21:03               317 f1.png
+30-04-2013  14:16             4.820 f1.png.MII
+29-04-2013  21:04               479 f2.png
+30-04-2013  13:54             9.018 f2.png.MII
+29-04-2013  21:06               525 p1.png
+30-04-2013  13:49             9.016 p1.png.MII
+              27 File(s)         49.551 bytes
+               2 Dir(s)  205.640.605.696 bytes free

@@ -1,0 +1,10 @@
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\GalaxyE\bin\Debug\GalaxyE.dll
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\GalaxyE\bin\Debug\GalaxyE.pdb
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\GalaxyE\obj\Debug\GalaxyE.dll
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\GalaxyE\obj\Debug\GalaxyE.pdb
+C:\Users\favvus\Documents\Visual Studio 2010\Projects\TelnetServer\GalaxyE\obj\Debug\GalaxyE.csprojResolveAssemblyReference.cache
+C:\Work\Old Computer 2013\Projects\TelnetServer\GalaxyE\bin\Debug\GalaxyE.dll
+C:\Work\Old Computer 2013\Projects\TelnetServer\GalaxyE\bin\Debug\GalaxyE.pdb
+C:\Work\Old Computer 2013\Projects\TelnetServer\GalaxyE\obj\Debug\GalaxyE.csprojResolveAssemblyReference.cache
+C:\Work\Old Computer 2013\Projects\TelnetServer\GalaxyE\obj\Debug\GalaxyE.dll
+C:\Work\Old Computer 2013\Projects\TelnetServer\GalaxyE\obj\Debug\GalaxyE.pdb
