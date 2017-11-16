@@ -10,14 +10,14 @@ http://galaxyemud.blogspot.pt/
 
 1 - Start Screen
 
-![Start Screen](doc/alpha_star.png?raw=true "Start")
+![Start Screen](docs/alpha_star.png?raw=true "Start")
 
 2 - Star System
 
-![Star System](doc/alpha_systemInfo.png?raw=true "Start")
+![Star System](docs/alpha_systemInfo.png?raw=true "Start")
 
 3 - Jump Procedure
 
-![Jump](doc/alpha_jump.png?raw=true "Jump")
+![Jump](docs/alpha_jump.png?raw=true "Jump")
 
 
